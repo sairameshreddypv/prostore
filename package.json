@@ -1,0 +1,15 @@
+{
+  "name": "js1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasminewd2": "^2.2.0",
+    "protractor": "^5.4.2"
+  }
+}
